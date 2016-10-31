@@ -12,3 +12,4 @@ $('.sidebarToggle').click(function() {
     $('span', this).addClass('glyphicon-chevron-left');
   }
 });
+ //this is a comment
